@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {background-color:#5FBEE2; color:#0066FF; font-family:"Comic Sans MS"; font-size:13pt}
+.title {font-family:"Comic Sans MS"; font-size:15pt; color:#0066FF; font-weight:bold}
+.titlesmall {font-family:"Comic Sans MS"; font-size:14pt; font-weight:bold; color:#0066FF}
+.titlebig {font-family:"Comic Sans MS"; font-size:16pt; color:#000099; font-weight:bold}
+.bild {font-family:"Comic Sans MS"; font-size:10pt; font-style:italic; color:#000099}
+.title_mett_ennerstrach {font-family:"Comic Sans MS"; font-size:15pt; color:#3300FF; text-align:center; font-weight:bold; text-decoration:underline}
+.title_ennerstrach {font-family:"Comic Sans MS"; font-size:15pt; color:#0066FF; font-weight:bold; text-decoration:underline}
