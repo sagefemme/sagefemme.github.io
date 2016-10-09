@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {background-color:#C5ADCD; color:#990000; font-family:"Comic Sans MS"; font-size:13pt}
+.title {color:#990000; font-size:15pt; font-family:"Comic Sans MS"; font-weight:bold}
+.bild {color:#660000; font-size:10pt; font-family:"Comic Sans MS"; font-style:italic}
+.junior1 {background-color:#C5ADCD; color:#C500FE; font-family:"Comic Sans MS"; font-size:15pt; text-decoration:underline; text-align:center; font-weight:bold}
+.junior2 {background-color:#C5ADCD; color:#990000; font-family:"Comic Sans MS"; font-size:13pt; text-decoration:underline; font-weight:bold}
+.titlesmall {font-family:"Comic Sans Ms"; color:"#660000"; font-size:13pt; font-weight:bold}
+.titlebig {font-family:"Comic Sans MS"; font-size:17pt; color:#990000; font-weight:bold}
+.dateniwwerschreft {font-family:Verdana; font-size:20pt; color:#0000FF; font-weight:bold}
